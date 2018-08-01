@@ -1,6 +1,7 @@
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+Recipe Book is an angular single page application. We can view, add and manage own recipes and push to the shopping list.
 
 ## Development server
 
